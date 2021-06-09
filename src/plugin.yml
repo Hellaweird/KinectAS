@@ -1,0 +1,8 @@
+name: KinectArmorStand
+version: 1.0
+author: Daan
+api-version: 1.16
+main: nl.daankoster.kinect116.KinectArmorStand
+commands:
+   kinect:
+

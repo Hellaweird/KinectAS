@@ -1,0 +1,10 @@
+name: KinectAS
+version: 1.0
+author: Daan Koster
+api-version: 1.16
+main: nl.daankoster.kinectarmorstand.KinectArmorStand
+commands:
+   kinect:
+
+
+
